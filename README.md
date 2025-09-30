@@ -29,6 +29,7 @@ Le site est conçu pour être simple, moderne et responsive.
 
 ## Structure du projet
 
+```
 OussemaABDELMOULA_WebSite/
 │── index.html
 │── about.html
@@ -39,7 +40,7 @@ OussemaABDELMOULA_WebSite/
 │── js/
 │── resume/
 │ └── CV-Oussema-Abdelmoula.pdf
-
+```
 ---
 
 ## Déploiement
